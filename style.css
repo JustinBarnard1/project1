@@ -7,3 +7,10 @@ background-position: center center;
 .move-down{
     transform: translate(0, 25%)
 }
+
+.img-main{
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 350px;
+    max-width: 250px;
+}
