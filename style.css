@@ -3,3 +3,7 @@ background-image: url("mainHero1.jpg");
 background-size: contain;
 background-position: center center;
 }
+
+.move-down{
+    transform: translate(0, 25%)
+}
