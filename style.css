@@ -1,12 +1,17 @@
+
+body {
+  position: relative;
+}
+
+h5{
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
 .hero-img1{
 background-image: url("mainHero1.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
-}
-
-.move-down{
-    transform: translate(0, 25%)
 }
 
 .img-main{
@@ -15,6 +20,7 @@ background-position: center center;
     max-height: 350px;
     max-width: 250px;
 }
-h5{
-    text-shadow: 1px 1px rgb(0, 0, 0);
+
+.move-down{
+    transform: translate(0, 25%)
 }
