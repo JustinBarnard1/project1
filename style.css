@@ -15,3 +15,6 @@ background-position: center center;
     max-height: 350px;
     max-width: 250px;
 }
+h5{
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
